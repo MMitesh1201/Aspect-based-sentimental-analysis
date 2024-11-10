@@ -35,7 +35,7 @@ graph TD
 
 ### Prerequisites
 ```bash
-pip install -r requirements.txt
+pip install -r dependency.txt
 ```
 
 ### Setup

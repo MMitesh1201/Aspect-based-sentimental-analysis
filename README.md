@@ -107,4 +107,4 @@ app_stability,"Random crashes","Implement better error handling",MEDIUM
 ## 📧 Contact
 Your Name - [MMitesh1201](https://github.com/MMitesh1201)
 
-Project Link: [https://github.com/yourusername/aspect-based-sentiment-analysis](https://github.com/yourusername/aspect-based-sentiment-analysis)
+Project Link: [https://github.com/MMitesh1201/Aspect-based-sentimental-analysis](https://github.com/MMitesh1201/Aspect-based-sentimental-analysis)
